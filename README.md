@@ -3,5 +3,5 @@
  1. 7th Aug 2017 ~ 13th Oct 2017
  2. URL : [2017빅콘테스트](http://contest.kbig.kr/)
  
- ![Poster](https://drive.google.com/drive/folders/0B_how7ntab3QOUxuLVdQbnZYVkk)
+ ![Poster](./image/bigcon.png)
 
