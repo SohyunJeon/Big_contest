@@ -1,8 +1,9 @@
 # Big_contest 2017
-<br>
+
 ### 1. Purpose for Project
+
 To Predict Repayment Forecast
-![poster](contest/blob/master/img/poster.png)
+![poster](https://github.com/SohyunJeon/Big_contest/blob/master/img/poster.png?raw=true)
 
  1. 7th Aug 2017 ~ 13th Oct 2017
  2. URL : [2017빅콘테스트](http://contest.kbig.kr/)
